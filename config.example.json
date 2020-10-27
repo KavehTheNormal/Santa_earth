@@ -1,0 +1,6 @@
+{
+  "token": "Your discord bot token here",
+  "prefix": "Your own prefix here",
+  "everyoneMention": true,
+  "hostedBy": true
+}
